@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apache": "^0.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "nginx": "^1.0.8",
+    "request": "^2.88.2"
+  }
+}
