@@ -1,7 +1,6 @@
 {
   "name": "chatbot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,14 @@
     "express": "^4.19.2",
     "nginx": "^1.0.8",
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trantanphat0811/ChatBOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trantanphat0811/ChatBOT/issues"
+  },
+  "homepage": "https://github.com/trantanphat0811/ChatBOT#readme",
+  "description": ""
 }
